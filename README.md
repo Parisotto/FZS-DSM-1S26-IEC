@@ -17,7 +17,7 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 - [01 Primeira Pipeline](.github/workflows/01-pipeline.y)
 - [02 Segunda Pipeline](.github/workflows/02-workflow.y)
 - [03 Multi Triggers](.github/workflows/03-multi-triggers.y)
-
+- [03 Multi Triggers](.github/workflows/04-limitando-triggers.y)
 ---
 
 ## ⚠️ Observações
