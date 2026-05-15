@@ -12,3 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "O job dispariou um ${{ github.event_name }} evento."
+      - run: echo Rodando em um ${{ runner.os }} servidor.
+      
