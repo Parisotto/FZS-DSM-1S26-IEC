@@ -21,6 +21,9 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 - [05 Exemplo com Node](.github/workflows/05-node.y)
 ---
 
+# Documentação de triggers
+- [Documentação de Triggers](https://docs.github.com/pt/actions/reference/workflows-and-actions/events-that-trigger-workflows)
+
 ## ⚠️ Observações
 
 - Este material é de apoio às aulas
