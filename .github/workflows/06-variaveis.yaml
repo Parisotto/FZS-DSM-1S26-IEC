@@ -13,4 +13,5 @@ jobs:
     steps:
       - run: echo "O job dispariou um ${{ github.event_name }} evento."
       - run: echo Rodando em um ${{ runner.os }} servidor.
+      - run: echo 'O nome da branch é ${{ github.ref }} do reposótio ${{ github.repository }}'
       
