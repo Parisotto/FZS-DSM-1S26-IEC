@@ -19,6 +19,8 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 - [03 Multi Triggers](.github/workflows/03-multi-triggers.y)
 - [04 Limitando Triggers](.github/workflows/04-limitando-triggers.y)
 - [05 Exemplo com Node](.github/workflows/05-node.y)
+- [06 Variáveis](.github/workflows/06-variaveis.y)
+
 ---
 
 # Documentação de triggers
