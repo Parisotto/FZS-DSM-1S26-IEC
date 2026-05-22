@@ -27,4 +27,7 @@ jobs:
 
       - name: Variável de Repositorio (Repository Variable)
         run: echo "A URL do KAFKA é ${{ vars.KAFKA }}"
+
+      - name: Senha do usuário
+        run: echo "A senha é ${{ secrets.PASSWORD }}"
           
