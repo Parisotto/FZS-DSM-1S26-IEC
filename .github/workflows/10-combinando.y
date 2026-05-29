@@ -1,8 +1,15 @@
-name: GitHub Actions - Push - Filtro por Paths
+name: GitHub Actions - Push - Combinando tudo
 
 run-name: Running - ${{ github.event_name }}
 on:
   push:
+    # Filtrando por Branches
+    # branches:
+    branches-ignore:
+      - main
+      - tests
+      - 'releases/**'
+      - 'features/**'
     # Filtrando por Paths
     paths:
       - '**.txt'
@@ -13,5 +20,5 @@ jobs:
     steps:
       - name: "Comentário"
         run: |
-          echo 'comentário PUSH Workflow'
+          echo 'Filtro combinado'
           echo 'Executanto'
