@@ -1,4 +1,4 @@
-name: GitHub Actions - Push - Branches Ignore
+name: GitHub Actions - Push - Filtro por Branches
 
 run-name: Running - ${{ github.event_name }}
 on:
