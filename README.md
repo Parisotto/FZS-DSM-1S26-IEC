@@ -1,4 +1,4 @@
-<img src="banner-iec.png" width="100%">
+<img src="./imagens/banner-iec.png" width="100%">
 
 # 📘 Integração e Entrega Continua
 
@@ -31,7 +31,7 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
-<img src="logo-iec.png" width="25%">
+<img src="./imagens/logo-iec.png" width="25%">
 
 ---
 
